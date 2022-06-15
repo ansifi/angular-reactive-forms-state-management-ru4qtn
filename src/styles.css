@@ -1,0 +1,22 @@
+/* Add application styles & imports to this file! */
+body {
+  background-color: #262626;
+  color: #f4f4f4;
+  font-family: sans-serif;
+  letter-spacing: 0.16px;
+}
+
+h1 {
+  font-weight: lighter;
+}
+
+input {
+  background-color: #393939;
+  border: none;
+  padding: 1em;
+  color: #f4f4f4;
+  margin-right: 5px;
+}
+input:focus {
+  outline: 2px solid #f4f4f4;
+}
